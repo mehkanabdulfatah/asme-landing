@@ -1,0 +1,6 @@
+{
+  "name": "Asme — Liquid Glass Landing Site",
+  "description": "An ethereal single-page landing site featuring liquid glass aesthetics, seamless looped video experiences, and editorial typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
